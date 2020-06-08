@@ -1,0 +1,9 @@
+2019-09-17 17:25:17,378 - usr - INFO - Host_IP:b'192.168.2.23 192.168.1.121 \n'-Mode:Pause-manual_roration:False - stopped:False - duration:0h - status_code:200 - degree:28.863241106719364
+2019-09-17 17:25:21,599 - usr - INFO - Host_IP:b'192.168.2.23 192.168.1.121 \n'-Mode:Pause-manual_roration:True - stopped:True - duration:0h - status_code:200 - degree:27.838735177865615 - start_time:172521 - finish_time:182521
+2019-09-17 17:25:21,997 - usr - INFO - Host_IP:b'192.168.2.23 192.168.1.121 \n'-Mode:Pause-manual_roration:True - stopped:True - duration:4h - status_code:200 - degree:88.96758893280632 - start_time:172521 - finish_time:212521
+2019-09-17 17:25:22,430 - usr - INFO - Host_IP:b'192.168.2.23 192.168.1.121 \n'-Mode:Pause-manual_roration:False - stopped:True - duration:4h - status_code:200 - degree:100.95810276679842 - start_time:172521 - finish_time:212506
+2019-09-17 17:25:37,104 - usr - INFO - Host_IP:b'192.168.2.23 192.168.1.121 \n'-Mode:Pause-manual_roration:False - stopped:False - duration:0h - status_code:200 - degree:89.56205533596838
+2019-09-17 17:26:52,244 - usr - INFO - Host_IP:b'192.168.2.23 192.168.1.121 \n'-Mode:Pause-manual_roration:True - stopped:True - duration:0h - status_code:200 - degree:26.864822134387353 - start_time:172651 - finish_time:182651
+2019-09-17 17:26:52,645 - usr - INFO - Host_IP:b'192.168.2.23 192.168.1.121 \n'-Mode:Pause-manual_roration:True - stopped:True - duration:3h - status_code:200 - degree:65.59367588932807 - start_time:172652 - finish_time:202652
+2019-09-17 17:26:53,085 - usr - INFO - Host_IP:b'192.168.2.23 192.168.1.121 \n'-Mode:Pause-manual_roration:True - stopped:True - duration:4h - status_code:200 - degree:86.61501976284585 - start_time:172652 - finish_time:212652
+2019-09-17 17:27:05,639 - usr - INFO - Host_IP:b'192.168.2.23 192.168.1.121 \n'-Mode:Pause-manual_roration:False - stopped:False - duration:0h - status_code:200 - degree:98.87114624505928
