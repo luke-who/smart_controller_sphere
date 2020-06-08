@@ -1,0 +1,1 @@
+{"jsonrpc":"2.0","method":"start","params":{"delay":0, "modality": "all"},"id":"index.php_863310","dest":"node-red","src":"web_wp6"}

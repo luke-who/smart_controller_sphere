@@ -1,0 +1,1 @@
+{"jsonrpc":"2.0","method":"pause","params":{"delay":0, "duration": "today","modality": "all"},"id":"genie_12345","dest":"node-red","src":"genie"}
