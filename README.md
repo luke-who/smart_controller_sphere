@@ -15,3 +15,5 @@ A replica of the 2019 summer internship project where I built a IOT smart contro
 ## Then the circuit was encapsulated insided a 3D printed box & dial on top of it
 <img src="https://github.com/luke-who/smart_controller_sphere/blob/master/Design%26Implementation/Implementation/genie_box_side_view.jpg" width = 500/>
 
+# Paper
+[The paper](chi20e-sub1382-i7.pdf) was submitted for review in the [CHI2020](https://chi2020.acm.org/) conference
