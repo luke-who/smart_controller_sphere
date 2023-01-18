@@ -1,4 +1,4 @@
-# A Smart Controller Project
+# Smart Controller for Digital Health
 
 <p align="center">
 <img src="https://github.com/luke-who/smart_controller_sphere/blob/master/Design%26Implementation/Implementation/genie_box.jpg" width = 500/>
